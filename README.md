@@ -1,4 +1,10 @@
-# Visualizing-Olympic-history-dataset-
+# Visualizing-Olympic-history-dataset- (Group Project)
+
+by
+Asok Kumar Gaurav
+Sannabhadti Shipra Deepak
+Ng Ziqi Natasha
+
 NTU CZ1015 Visualizing Olympic history dataset 
 
 DSAI Mini-Project 120 years of Olympic games
