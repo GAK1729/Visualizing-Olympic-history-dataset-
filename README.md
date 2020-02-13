@@ -7,3 +7,6 @@ Aim: Predict Medal using, Height, Weight, Age and Team
 
 Refer to "DSAI Mini Project Presentation.pdf"
 
+Please Download Both Data CSV files from this link 
+
+https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
